@@ -6,7 +6,7 @@ export const RESUME_DATA = {
 	location: 'Lahore, Pakistan.',
 	locationLink: 'https://www.google.com/maps/place/Lahore',
 	about:
-		'🖥️ Frontend Engineer, 👨‍💻 Full Stack Developer and an 🤖 AI research enthusiast. Sometimes Coder 🧑🏼‍💻 and  Always influenced by Designs🎴.',
+		'🖥️ Frontend Engineer, 👨‍💻 Jr. Full Stack Developer and  Always influenced by Designs🎴.',
 	summary: `Specialized in web development. My passion lies in crafting innovative solutions that blend technology and design with a focus on social impact,
 	aiming to make a meaningful difference in people's lives.
 	I'm dedicated to utilizing the most recent and advanced frontend technologies to improve user accessibility and maximize web application performance.
