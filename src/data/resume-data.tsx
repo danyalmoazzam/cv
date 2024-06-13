@@ -60,10 +60,10 @@ export const RESUME_DATA = {
 			company: 'Self Employed',
 			link: 'https://github.com/danyalmoazzam',
 			badges: ['Hybrid'],
-			title: 'Frontend Developer',
+			title: 'Jr Web Developer',
 			start: 'Jan, 2024',
 			end: 'Present',
-			description: `As a frontend web developer proficient in React, Next.js, and Tailwind CSS, I'll craft sleek user interfaces and seamless experiences. Join me in my Journey and shape the digital landscape with responsive, visually captivating web solutions.`
+			description: `I am a motivated Junior Web Developer with a passion for creating responsive, user-friendly web applications and a strong eagerness to learn and grow in the field.`
 		  },
 		  {
 			company: 'MA Block',
